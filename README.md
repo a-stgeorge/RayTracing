@@ -17,5 +17,7 @@ To run the ray tracer, run the Driver class. This class includes several pre-bui
 
 ## Example
 
-4 Colored Marbles on a Checkerboard
+4 Colored Marbles on a Checkerboard:
+
+![Ray Tracing output example]{https://github.com/ais97696/RayTracing/blob/790e7717dfb5845c6476075433160fdfd5d1467a/OutputExample.png}
 
