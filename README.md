@@ -14,3 +14,8 @@ To run the ray tracer, run the Driver class. This class includes several pre-bui
 ### Potential Future Additions
 - Texture mapping
 - Refraction
+
+## Example
+
+4 Colored Marbles on a Checkerboard
+
