@@ -7,6 +7,7 @@ To run the ray tracer, run the Driver class. This class includes several pre-bui
 ### Features
 - Object Detection for Spheres and Cubes
 - Transformations from generic spheres and cubes
+- Multiple rays per pixel (anti-aliasing)
 - Basic Phong Lighting
 - Shadows
 - Reflections
@@ -19,5 +20,5 @@ To run the ray tracer, run the Driver class. This class includes several pre-bui
 
 4 Colored Marbles on a Checkerboard:
 
-![Ray Tracing output example]{https://github.com/ais97696/RayTracing/blob/790e7717dfb5845c6476075433160fdfd5d1467a/OutputExample.png}
+![Ray Tracing output example](https://github.com/ais97696/RayTracing/blob/790e7717dfb5845c6476075433160fdfd5d1467a/OutputExample.png)
 
