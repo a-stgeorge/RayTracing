@@ -14,6 +14,7 @@ This is a basic ray tracing program written from scratch in Java, written for a 
 - Texture mapping
 - Refraction
 
+
 ## Example
 
 4 Colored Marbles on a Checkerboard:
